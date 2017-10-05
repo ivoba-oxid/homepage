@@ -2,7 +2,7 @@
   "name": "oxid-ivo-bathke-de",
   "private": true,
   "dependencies": {
-    "bootstrap": "~4.0.0-alpha.6",
+    "bootstrap": "~4.0.0-beta",
     "modernizr": "~2.8.1"
   },
   "overrides": {
