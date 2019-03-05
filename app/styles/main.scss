@@ -2,9 +2,7 @@ $jumbotron-bg: #ffffff !default;
 $jumbotron-padding: 1rem !default;
 $font-family-sans-serif: 'Ubuntu' !default;
 
-// bower:scss
-@import "bower_components/bootstrap/scss/bootstrap.scss";
-// endbower
+@import "node_modules/bootstrap/scss/bootstrap.scss";
 
 .browserupgrade {
   margin: 0.2em 0;
