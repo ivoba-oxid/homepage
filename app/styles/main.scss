@@ -28,6 +28,9 @@ body {
   }
 }
 
+.card img {
+    border-bottom: 1px solid rgba(0,0,0,.125);}
+    
 .bg-1 {
   color: #02475a;
   img {
@@ -40,18 +43,26 @@ body {
   padding-bottom: 40px;
 }
 
+.row {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
 .bg-3 {
   background-color: #02475a; /* Blue */
   color: #ffffff;
   .card {
     color: #02475a;
     margin-top: 20px;
+    margin-bottom: 40px;
   }
 }
 
 .bg-4 {
-  background-color: #ffffff;
+  background-color: white;
   color: #02475a;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 .thumbnail {
