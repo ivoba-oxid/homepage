@@ -1,5 +1,5 @@
 {
-    "hostname": "euve36445.vserver.de",
-    "username": "feednapi",
-    "destination": "domains/oxid.ivo-bathke.name/public_html"
+    "hostname": "94.237.80.101",
+    "username": "ivo",
+    "destination": "/srv/oxid.ivo-bathke.name/code"
 }
