@@ -6,7 +6,6 @@ Built with yeoman webapp generator
 
 ## Todo
 - asset rev
-- email: hello@ivo-bathke.name
 - i18n german
 - github API call for last-modified ?
 - thumbs per module
